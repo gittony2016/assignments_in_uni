@@ -1,0 +1,18 @@
+.easycheck_errorInfo {
+	margin-left: 10px;
+	color:#FF2A2B;
+	display: inline;
+	font-size: 13px;
+}
+.easycheck_okInfo {
+	margin-left: 10px;
+	display: inline;
+	font-size: 13px;
+	color:#007C00;
+}
+.easycheck_focusInput{
+	border: 1px solid #0066FF !important; 
+}
+.easycheck_errorInput {
+	border: 1px solid #DD080A !important;
+}

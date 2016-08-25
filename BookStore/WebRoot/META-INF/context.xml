@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Bookstore" docBase="Bookstore"
+        debug="5" reloadable="true" crossContext="true">
+  <Resource name="jdbc/comp9321" auth="Container"
+          type="javax.sql.DataSource" username="root" password="87563518"
+          driverClassName="com.mysql.jdbc.Driver" 
+          url="jdbc:mysql://localhost:3306/mycomp9321"
+          maxActive="8" maxIdle="4"/>
+</Context>
